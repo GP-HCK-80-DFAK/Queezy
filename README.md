@@ -1,23 +1,27 @@
-# Queezy
-## 📖 How to Play Instructions
+# 🎉 Welcome to Queezy! The Ultimate Quiz Challenge
 
-This document outlines the game instructions for an interactive quiz application. Below are the details of the gameplay mechanics.
+## 🔑 Sign Up to Play!
+Before you can start playing, create an account with your email and a strong password.
+
+## 📖 How to Play
+Follow these simple rules to compete in the quiz game.
 
 ### 👥 Players
 
-Up to **4 participants** can join the game.
+There is **no limit** to the number of participants in a game.
 
-### ❓ Questions & Answers
+### ❓ Quiz Format
 
-- The game consists of **20 questions**.
-- Each question has **4 answer choices**.
+- The game consists of **10 multiple-choice questions**.
+- Each question has **4 possible answers** to choose from.
 
 ### ⏳ Time Limit
 
-Players have **30 seconds** to answer each question.
+- You have **10 seconds** to answer each question.  
+- If time runs out, you won’t earn any points for that question.
 
 ### ⚡ Scoring System
 
-- The **fastest player** to answer correctly earns the point.
-- Wrong answers earn **no points**.
-- The player with the **highest score** at the end wins!
+- The **fastest player** to select the correct answer scores a point.  
+- Incorrect answers do **not** deduct points.  
+- The player with the **highest total score** at the end wins the game! 🏆  
